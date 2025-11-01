@@ -1,0 +1,10 @@
+{
+  "name": "hyperion",
+  "version": "0.1.0",
+  "description": "Hyperion v5.0 - demo PWA",
+  "scripts": {
+    "start": "serve . -l 8000",
+    "build": "echo 'No build step defined'",
+    "test": "echo 'No tests defined'"
+  }
+}

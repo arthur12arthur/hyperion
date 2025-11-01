@@ -1,0 +1,1 @@
+Consulte docs/ pour la documentation détaillée.
